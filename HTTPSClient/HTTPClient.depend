@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1318198639 source:d:\omar\desarrollo\ctestzone\httpclient\main.cpp
+	<iostream>
+	<string>
+	"HTTPClient.h"
+
+1318023293 source:d:\omar\desarrollo\ctestzone\httpclient\httpclient.cpp
+	"HTTPClient.h"
+	<sstream>
+
+1318016376 d:\omar\desarrollo\ctestzone\httpclient\httpclient.h
+	<Winsock2.h>
+	<errno.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<fcntl.h>
+	<string>
+	<iostream>
+	<map>
+

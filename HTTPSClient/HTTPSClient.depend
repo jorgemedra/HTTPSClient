@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1318473467 source:d:\omar\desarrollo\ctestzone\httpsclient\main.cpp
+	<iostream>
+	<string>
+	"HTTPClient.h"
+
+1318470605 d:\omar\desarrollo\ctestzone\httpsclient\httpclient.h
+	<string>
+	<iostream>
+	<map>
+	<curl/curl.h>
+
+1318461264 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1318461264 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\curlver.h
+
+1318461266 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\curlbuild.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<stdint.h>
+	<inttypes.h>
+	<sys/socket.h>
+
+1318461266 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\curlrules.h
+
+1318461265 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\easy.h
+
+1318461265 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\multi.h
+	"curl.h"
+
+1318461265 d:\omar\desarrollo\ctestzone\httpsclient\libs\curl\include\curl\typecheck-gcc.h
+
+1318473766 source:d:\omar\desarrollo\ctestzone\httpsclient\httpclient.cpp
+	"HTTPClient.h"
+	<sstream>
+
